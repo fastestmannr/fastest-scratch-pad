@@ -1,2 +1,2 @@
 # fastest-scratch-pad
-Scratchpad
+Getting started with github
