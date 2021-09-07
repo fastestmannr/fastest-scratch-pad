@@ -1,0 +1,2 @@
+# fastest-scratch-pad
+Scratchpad
